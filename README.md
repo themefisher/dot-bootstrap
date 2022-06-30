@@ -1,4 +1,4 @@
-# dot Free Bootstrap Documentation Template
+# Dot - Free Bootstrap Documentation Template
 
 ![dot](https://demo.themefisher.com/thumbnails/dot.png)
 
