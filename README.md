@@ -1,6 +1,6 @@
 # Dot - Free Bootstrap Documentation Template
 
-![dot](https://demo.themefisher.com/thumbnails/dot.png)
+![dot](https://assets.teamosis.com/thumbs/dot.png)
 
 👉🏻[View Live Preview](https://demo.themefisher.com/dot/)
 
